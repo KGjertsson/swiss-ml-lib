@@ -1,0 +1,6 @@
+,cross val loss,parameters
+lasso,0.1122934841,{'alpha': 0.0004620609545131168}
+xgboost,0.1158038908,"{'colsample_bytree': 0.4603, 'gamma': 0.0004742746687883887, 'learning_rate': 0.006806325375209027, 'max_depth': 3, 'min_child_weight': 1.7817, 'n_estimators': 4795, 'n_jobs': -1, 'random_state': 7, 'reg_alpha': 0.464, 'reg_lambda': 0.8571, 'silent': 1, 'subsample': 0.5213}"
+Enet,0.1126812203,{'alpha': 0.0006514763771079174}
+KRR,0.115368948,"{'alpha': 0.9813351184821618, 'coef0': 6.373971377335225, 'degree': 2, 'kernel': 'polynomial'}"
+Gboost,0.1155695998,"{'learning_rate': 0.05952166814322882, 'loss': 'huber', 'max_depth': 2, 'max_features': 'sqrt', 'min_samples_leaf': 15, 'min_samples_split': 10, 'n_estimators': 1446, 'random_state': 5}"
